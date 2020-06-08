@@ -1,0 +1,27 @@
+.preview-container {
+    max-width: 60%;
+    margin: 0 auto;
+    font-family: sans-serif;
+    border: 1px solid red;
+    padding: 2rem;;
+    -webkit-box-shadow: 10px 10px 23px -17px rgba(0,0,0,0.81);
+    -moz-box-shadow: 10px 10px 23px -17px rgba(0,0,0,0.81);
+    box-shadow: 10px 10px 23px -17px rgba(0,0,0,0.81);
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    width: 70%;
+}
+
+.description {
+    font-size: .8rem;
+}
+
+.url {
+    font-size: .7rem;
+    text-transform: uppercase;
+}
